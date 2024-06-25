@@ -1,8 +1,6 @@
 if status is-interactive
     # Commands to run in interactive sessions can go here
-    echo -e "\e[35mWelcome to fish, the friendly interactive shell!" \n
-    
-    
+    fastfetch
 end
 
 function lfcd --wraps="lf" --description="lf - Terminal file manager (changing directory on exit)"
