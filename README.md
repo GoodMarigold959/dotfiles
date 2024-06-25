@@ -1,19 +1,19 @@
 ### lf
-  lfrc
-  lf_kitty_clean
-  lf_kitty_preview
-  pistol
+ - lfrc 
+ - lf_kitty_clean 
+ - lf_kitty_preview 
+ - pistol 
 
 ### kitty 
-  kitty.conf
+ - kitty.conf
 
 ### btop
-  btop
+ - btop
 
 ### fish
-  config.fish
-  jorgebucaran/fisher
-  pure-fish/pure
+ - config.fish
+ - jorgebucaran/fisher
+ - pure-fish/pure
 
 ### fastfetch
-  config.jsonc
+ - config.jsonc
