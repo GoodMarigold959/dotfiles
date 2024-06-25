@@ -12,6 +12,6 @@ end
 alias code "code -n --disable-extensions"
 alias lf "lfcd"
 alias box "z ~/University\ of\ Michigan \Dropbox/Daniel"
-alias rm "rm -I"
+alias rm "safe-rm -I"
 
 zoxide init fish | source
